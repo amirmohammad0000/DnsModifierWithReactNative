@@ -1,4 +1,4 @@
-# DnsModifierWithReactNative;
+# Dns Modifier With React Native;
 
 Visit my personal site : https://amirmohammad0.ir;
 
